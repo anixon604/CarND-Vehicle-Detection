@@ -2,7 +2,7 @@
 # OpenCV and State Vector Machine
 ## Project: track vehicles on road and place bounding box
 
-[![Video of the trained solution](./WorkingScreen.png)](https://www.youtube.com/watch/v=kxxpunorcxk)
+[![Video of the trained solution](./WorkingScreen.png)](https://www.youtube.com/watch?v=kxxpunorcxk)
 
 ### Overview
 
